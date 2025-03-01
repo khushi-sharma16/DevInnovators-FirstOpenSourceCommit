@@ -47,7 +47,7 @@ Name: Sarthak Rohilla, Roll: 27375, Branch: AIML, Section: 3, Email: sarthakrohi
 Name: Shruti, Roll: 27381, Branch: AIML, Section: 3, Email: shrutishawal@gmail.com
 Name: Sanjit Rakshit, Roll: 27474, Branch: CSIT, Section: 2, Email: sanjitrksht@gmail.com 
 Name: Kunjan, Roll: 27299, Branch: AIML, Section: 2, Email: kunjanmalik19@gmail.com
-Name: Purva, Roll: 27136, Branch: Cse, Section: 3, Email: purvasingh299@gmail.com
 Name: Kritika, Roll: 27095, Branch: CSE, Section: 2, Email: kadiankritika@gmail.com
+Name: Purva, Roll: 27136, Branch: CSE, Section: 3, Email: purvasingh299@gmail.com
 Name: Manish, Roll: 27305, Branch: AIML, Section: 2, Email: ggn.manish06@gmail.com
-Namw : Nishat Panda : 27330,Branch : AIML, Section : 2, Email : nishatbrawl2006@gmail.com
+Name: Nishat Panda, Roll: 27330, Branch: AIML, Section: 2, Email: nishatbrawl2006@gmail.com
