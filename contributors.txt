@@ -54,3 +54,4 @@ Name: Nishat Panda, Roll: 27330, Branch: AIML, Section: 2, Email: nishatbrawl200
 Name: Prithviraj Kattimani, Roll: 27135, Branch: CSE, Section: 3, Email: prithvirajkattimaniking2005@gmail.com
 Name: Tushar Sengar, Roll: 27183, Branch: CSE, Section: 3, Email: sengar.tushar07@gmail.com
 Name: Shruti, Roll: 27168, Branch: CSE, Section: 3, Email: shrutinayakshrutinayak41@gmail.com
+Name: Sanya Sinha, Roll: 27157, Branch: CSE, Section: 3, Email: sinhasanya21@gmail.com
