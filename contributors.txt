@@ -51,5 +51,6 @@ Name: Kritika, Roll: 27095, Branch: CSE, Section: 2, Email: kadiankritika@gmail.
 Name: Purva, Roll: 27136, Branch: CSE, Section: 3, Email: purvasingh299@gmail.com
 Name: Manish, Roll: 27305, Branch: AIML, Section: 2, Email: ggn.manish06@gmail.com
 Name: Nishat Panda, Roll: 27330, Branch: AIML, Section: 2, Email: nishatbrawl2006@gmail.com
+Name: Prithviraj Kattimani, Roll: 27135, Branch: CSE, Section: 3, Email: prithvirajkattimaniking2005@gmail.com
 Name: Tushar Sengar, Roll: 27183, Branch: CSE, Section: 3, Email: sengar.tushar07@gmail.com
 Name: Shruti, Roll: 27168, Branch: CSE, Section: 3, Email: shrutinayakshrutinayak41@gmail.com
