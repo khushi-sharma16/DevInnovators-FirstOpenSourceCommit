@@ -56,3 +56,4 @@ Name: Tushar Sengar, Roll: 27183, Branch: CSE, Section: 3, Email: sengar.tushar0
 Name: Shruti, Roll: 27168, Branch: CSE, Section: 3, Email: shrutinayakshrutinayak41@gmail.com
 Name: Sanya Sinha, Roll: 27157, Branch: CSE, Section: 3, Email: sinhasanya21@gmail.com
 Name: Goldi, Roll: 27506, Branch: IOT, Section: 2, Email: goldigond44@gmail.com
+Name: Mayank Kataria, Roll No.: 27306, Branch: AIML, Section: 2, Email: mayankkataria742@gmail.com
